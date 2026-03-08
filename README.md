@@ -1,6 +1,6 @@
 # data-analytics-app
 
-This is a repository containing the constituting components of a data analytics system and web application.
+This is a repository containing the constituting components of a data analytics system and associated web viewer.
 
 The system is comprised of the following components:
 
